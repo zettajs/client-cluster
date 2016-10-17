@@ -1,0 +1,8 @@
+*.tfvars
+*.tfstate
+*.tfstate.backup
+
+.user-data
+*.pem
+
+node_modules
